@@ -71,3 +71,17 @@ The analysis helps identify:
 B.Tech 2026 Graduate | Aspiring Data Analyst
 
 **Skills:** Excel | SQL | Power BI | Python | Tableau
+
+## 📊 Dashboard Preview
+
+### Excel – Superstore Sales Dashboard
+
+![Excel Superstore Sales Dashboard](excel-superstore-sales-dashboard.png)
+
+### Power BI – Finance Performance Dashboard
+
+![Power BI Finance Performance Dashboard](power-bi-finance-performance-dashboard.png)
+
+### Tableau – Superstore Sales Dashboard
+
+![Tableau Superstore Sales Dashboard](tableau-superstore-sales-dashboard.png)
